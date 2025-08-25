@@ -1,6 +1,10 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetcode", "Leetcode\Leetcode.csproj", "{22494C76-A691-4CC5-B4DA-CF0AB0C0EC78}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "28_FindTheIndexOfTheFirstOccurrenceInAString", "28_FindTheIndexOfTheFirstOccurrenceInAString\28_FindTheIndexOfTheFirstOccurrenceInAString.csproj", "{8F95DC43-CD7A-48C2-A581-C4DEB06ADC5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "58_LengthOfLastWord", "58_LengthOfLastWord\58_LengthOfLastWord.csproj", "{CEA97F52-68C9-4D7E-8444-663E908212E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "643_MaximumAverageSubarray", "643_MaximumAverageSubarray\643_MaximumAverageSubarray.csproj", "{0FE9235A-0F34-4DC2-8A81-B983E24394CC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -8,9 +12,17 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{22494C76-A691-4CC5-B4DA-CF0AB0C0EC78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{22494C76-A691-4CC5-B4DA-CF0AB0C0EC78}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{22494C76-A691-4CC5-B4DA-CF0AB0C0EC78}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{22494C76-A691-4CC5-B4DA-CF0AB0C0EC78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F95DC43-CD7A-48C2-A581-C4DEB06ADC5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F95DC43-CD7A-48C2-A581-C4DEB06ADC5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F95DC43-CD7A-48C2-A581-C4DEB06ADC5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F95DC43-CD7A-48C2-A581-C4DEB06ADC5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEA97F52-68C9-4D7E-8444-663E908212E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEA97F52-68C9-4D7E-8444-663E908212E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEA97F52-68C9-4D7E-8444-663E908212E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEA97F52-68C9-4D7E-8444-663E908212E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FE9235A-0F34-4DC2-8A81-B983E24394CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FE9235A-0F34-4DC2-8A81-B983E24394CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FE9235A-0F34-4DC2-8A81-B983E24394CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FE9235A-0F34-4DC2-8A81-B983E24394CC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
