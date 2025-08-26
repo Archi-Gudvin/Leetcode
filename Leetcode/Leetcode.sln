@@ -8,6 +8,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "643_MaximumAverageSubarray"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3206_AlternatingGroups", "3206_AlternatingGroups\3206_AlternatingGroups.csproj", "{E0B7F5D4-5031-4883-AE44-B8AB1DE39B13}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3258_CountSubstringsThatSatisfyK-Constraint", "3258_CountSubstringsThatSatisfyK-Constraint\3258_CountSubstringsThatSatisfyK-Constraint.csproj", "{2FD19073-C32D-4307-B9B6-117FADF10F20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3364_MinimumPositiveSumSubarray", "3364_MinimumPositiveSumSubarray \3364_MinimumPositiveSumSubarray.csproj", "{B8A7706B-B232-49DB-A9CF-E62CCCCA2F3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "141_LinkedListCycle", "141_LinkedListCycle\141_LinkedListCycle.csproj", "{F483CF33-429D-41CA-814C-ABB02DD5EF24}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +36,17 @@ Global
 		{E0B7F5D4-5031-4883-AE44-B8AB1DE39B13}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E0B7F5D4-5031-4883-AE44-B8AB1DE39B13}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E0B7F5D4-5031-4883-AE44-B8AB1DE39B13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FD19073-C32D-4307-B9B6-117FADF10F20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FD19073-C32D-4307-B9B6-117FADF10F20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FD19073-C32D-4307-B9B6-117FADF10F20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FD19073-C32D-4307-B9B6-117FADF10F20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8A7706B-B232-49DB-A9CF-E62CCCCA2F3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8A7706B-B232-49DB-A9CF-E62CCCCA2F3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8A7706B-B232-49DB-A9CF-E62CCCCA2F3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8A7706B-B232-49DB-A9CF-E62CCCCA2F3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F483CF33-429D-41CA-814C-ABB02DD5EF24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F483CF33-429D-41CA-814C-ABB02DD5EF24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F483CF33-429D-41CA-814C-ABB02DD5EF24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F483CF33-429D-41CA-814C-ABB02DD5EF24}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
