@@ -18,6 +18,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "88_MergeSortedArray", "88_M
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickSort", "QuickSort\QuickSort.csproj", "{B2FBF446-1541-41A6-B94D-587ED8303F7B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "283_MoveZeroes", "283_MoveZeroes\283_MoveZeroes.csproj", "{557C4CA0-9174-4A64-B0A6-85631B2ADEBE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -60,5 +62,9 @@ Global
 		{B2FBF446-1541-41A6-B94D-587ED8303F7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B2FBF446-1541-41A6-B94D-587ED8303F7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B2FBF446-1541-41A6-B94D-587ED8303F7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{557C4CA0-9174-4A64-B0A6-85631B2ADEBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{557C4CA0-9174-4A64-B0A6-85631B2ADEBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{557C4CA0-9174-4A64-B0A6-85631B2ADEBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{557C4CA0-9174-4A64-B0A6-85631B2ADEBE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
