@@ -24,6 +24,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "876_MiddleOfTheLinkedList",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "557_ReverseWordsInAStringIII", "557_ReverseWordsInAStringIII\557_ReverseWordsInAStringIII.csproj", "{085D2A4F-184B-42C0-8D35-FEC802D80B41}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "189_RotateArray", "189_RotateArray\189_RotateArray.csproj", "{6A4359FD-7DF6-419F-862A-0A83D94BB3A0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -78,5 +80,9 @@ Global
 		{085D2A4F-184B-42C0-8D35-FEC802D80B41}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{085D2A4F-184B-42C0-8D35-FEC802D80B41}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{085D2A4F-184B-42C0-8D35-FEC802D80B41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A4359FD-7DF6-419F-862A-0A83D94BB3A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A4359FD-7DF6-419F-862A-0A83D94BB3A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A4359FD-7DF6-419F-862A-0A83D94BB3A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A4359FD-7DF6-419F-862A-0A83D94BB3A0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
