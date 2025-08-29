@@ -32,6 +32,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "268_MissingNumber", "268_Mi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "35_SearchInsertPosition", "35_SearchInsertPosition\35_SearchInsertPosition.csproj", "{65BD340F-D85D-4944-B8DE-A32D14EADD6A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "167_TwoSumII-InputArrayIsSorted", "167_TwoSumII-InputArrayIsSorted\167_TwoSumII-InputArrayIsSorted.csproj", "{5084B838-CABB-4640-9C27-DE3EC1BF8DBE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -102,5 +104,9 @@ Global
 		{65BD340F-D85D-4944-B8DE-A32D14EADD6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{65BD340F-D85D-4944-B8DE-A32D14EADD6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{65BD340F-D85D-4944-B8DE-A32D14EADD6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5084B838-CABB-4640-9C27-DE3EC1BF8DBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5084B838-CABB-4640-9C27-DE3EC1BF8DBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5084B838-CABB-4640-9C27-DE3EC1BF8DBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5084B838-CABB-4640-9C27-DE3EC1BF8DBE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
