@@ -34,6 +34,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "35_SearchInsertPosition", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "167_TwoSumII-InputArrayIsSorted", "167_TwoSumII-InputArrayIsSorted\167_TwoSumII-InputArrayIsSorted.csproj", "{5084B838-CABB-4640-9C27-DE3EC1BF8DBE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "349_IntersectionOfTwoArrays", "349_IntersectionOfTwoArrays\349_IntersectionOfTwoArrays.csproj", "{6DD2D04A-FFA2-4DDF-8DD3-B1D697D085E0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -108,5 +110,9 @@ Global
 		{5084B838-CABB-4640-9C27-DE3EC1BF8DBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5084B838-CABB-4640-9C27-DE3EC1BF8DBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5084B838-CABB-4640-9C27-DE3EC1BF8DBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DD2D04A-FFA2-4DDF-8DD3-B1D697D085E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DD2D04A-FFA2-4DDF-8DD3-B1D697D085E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DD2D04A-FFA2-4DDF-8DD3-B1D697D085E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DD2D04A-FFA2-4DDF-8DD3-B1D697D085E0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
