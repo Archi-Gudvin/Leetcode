@@ -30,6 +30,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "151_ReverseWordsInAString",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "268_MissingNumber", "268_MissingNumber\268_MissingNumber.csproj", "{61870276-D117-471B-9F39-97D6F3973D70}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "35_SearchInsertPosition", "35_SearchInsertPosition\35_SearchInsertPosition.csproj", "{65BD340F-D85D-4944-B8DE-A32D14EADD6A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -96,5 +98,9 @@ Global
 		{61870276-D117-471B-9F39-97D6F3973D70}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{61870276-D117-471B-9F39-97D6F3973D70}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{61870276-D117-471B-9F39-97D6F3973D70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65BD340F-D85D-4944-B8DE-A32D14EADD6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65BD340F-D85D-4944-B8DE-A32D14EADD6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65BD340F-D85D-4944-B8DE-A32D14EADD6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65BD340F-D85D-4944-B8DE-A32D14EADD6A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
