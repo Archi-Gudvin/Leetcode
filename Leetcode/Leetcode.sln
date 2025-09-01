@@ -40,6 +40,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "350_IntersectionOfTwoArrays
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "704_BinarySearch", "704_BinarySearch\704_BinarySearch.csproj", "{DAD817B5-2C6D-4F89-A049-E9CB952BE081}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1385_FindTheDistanceValueBetweenTwoArrays", "1385_FindTheDistanceValueBetweenTwoArrays\1385_FindTheDistanceValueBetweenTwoArrays.csproj", "{120A943F-4B6F-4C84-A6A2-70B81517623A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -126,5 +128,9 @@ Global
 		{DAD817B5-2C6D-4F89-A049-E9CB952BE081}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DAD817B5-2C6D-4F89-A049-E9CB952BE081}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DAD817B5-2C6D-4F89-A049-E9CB952BE081}.Release|Any CPU.Build.0 = Release|Any CPU
+		{120A943F-4B6F-4C84-A6A2-70B81517623A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{120A943F-4B6F-4C84-A6A2-70B81517623A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{120A943F-4B6F-4C84-A6A2-70B81517623A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{120A943F-4B6F-4C84-A6A2-70B81517623A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
