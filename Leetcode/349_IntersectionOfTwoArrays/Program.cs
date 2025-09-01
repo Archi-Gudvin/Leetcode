@@ -17,7 +17,7 @@ int[] Intersection(int[] nums1, int[] nums2)
        left = 0;
        right = nums1.Length - 1;
 
-       while (left < right)
+       while (left <= right)
        {
               int leftValue = nums1[left];
               int rightValue = nums1[right];
