@@ -46,6 +46,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "69_SqrtX", "69_SqrtX\69_Sqr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "367_ValidPerfectSquare", "367_ValidPerfectSquare\367_ValidPerfectSquare.csproj", "{6525B21D-C258-4917-8BB6-3D6CAC97EA2D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "744_FindSmallestLetterGreaterThanTarget", "744_FindSmallestLetterGreaterThanTarget\744_FindSmallestLetterGreaterThanTarget.csproj", "{7860208E-DE31-45B2-A986-E08F9C0B4CF3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -144,5 +146,9 @@ Global
 		{6525B21D-C258-4917-8BB6-3D6CAC97EA2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6525B21D-C258-4917-8BB6-3D6CAC97EA2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6525B21D-C258-4917-8BB6-3D6CAC97EA2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7860208E-DE31-45B2-A986-E08F9C0B4CF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7860208E-DE31-45B2-A986-E08F9C0B4CF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7860208E-DE31-45B2-A986-E08F9C0B4CF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7860208E-DE31-45B2-A986-E08F9C0B4CF3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
