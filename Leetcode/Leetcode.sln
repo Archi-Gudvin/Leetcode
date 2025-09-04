@@ -54,6 +54,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1128_NumberOfEquivalentDomi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "287_FindTheDuplicateNumber", "287_FindTheDuplicateNumber\287_FindTheDuplicateNumber.csproj", "{BAF703B4-7D8E-4D38-9597-4FCDD1E82082}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "75_SortColors", "75_SortColors\75_SortColors.csproj", "{CB339349-6733-48BE-BCAE-110D8FAA6F8F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -168,5 +170,9 @@ Global
 		{BAF703B4-7D8E-4D38-9597-4FCDD1E82082}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BAF703B4-7D8E-4D38-9597-4FCDD1E82082}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BAF703B4-7D8E-4D38-9597-4FCDD1E82082}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB339349-6733-48BE-BCAE-110D8FAA6F8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB339349-6733-48BE-BCAE-110D8FAA6F8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB339349-6733-48BE-BCAE-110D8FAA6F8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB339349-6733-48BE-BCAE-110D8FAA6F8F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
