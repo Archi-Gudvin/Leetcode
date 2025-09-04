@@ -58,6 +58,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "75_SortColors", "75_SortCol
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15_3Sum", "15_3Sum\15_3Sum.csproj", "{3E56D3AA-6CF6-4EC9-A6D5-5E2D6FD43116}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "219_ContainsDuplicateII", "219_ContainsDuplicateII\219_ContainsDuplicateII.csproj", "{E52AF9A2-EA7B-4FD0-9D7A-1AEAA180D8F2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -180,5 +182,9 @@ Global
 		{3E56D3AA-6CF6-4EC9-A6D5-5E2D6FD43116}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3E56D3AA-6CF6-4EC9-A6D5-5E2D6FD43116}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3E56D3AA-6CF6-4EC9-A6D5-5E2D6FD43116}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E52AF9A2-EA7B-4FD0-9D7A-1AEAA180D8F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E52AF9A2-EA7B-4FD0-9D7A-1AEAA180D8F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E52AF9A2-EA7B-4FD0-9D7A-1AEAA180D8F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E52AF9A2-EA7B-4FD0-9D7A-1AEAA180D8F2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
