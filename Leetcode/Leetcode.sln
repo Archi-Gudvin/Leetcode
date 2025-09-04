@@ -48,6 +48,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "367_ValidPerfectSquare", "3
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "744_FindSmallestLetterGreaterThanTarget", "744_FindSmallestLetterGreaterThanTarget\744_FindSmallestLetterGreaterThanTarget.csproj", "{7860208E-DE31-45B2-A986-E08F9C0B4CF3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1455_CheckIfAWordOccursAsAPrefixOfAnyWordInASentence", "1455_CheckIfAWordOccursAsAPrefixOfAnyWordInASentence\1455_CheckIfAWordOccursAsAPrefixOfAnyWordInASentence.csproj", "{8623BD1B-4032-4F33-8F78-699DBE5B1B76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1128_NumberOfEquivalentDominoPairs", "1128_NumberOfEquivalentDominoPairs\1128_NumberOfEquivalentDominoPairs.csproj", "{C8809EE8-A5BD-40AB-893F-D3ED1E0ABE98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "287_FindTheDuplicateNumber", "287_FindTheDuplicateNumber\287_FindTheDuplicateNumber.csproj", "{BAF703B4-7D8E-4D38-9597-4FCDD1E82082}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -150,5 +156,17 @@ Global
 		{7860208E-DE31-45B2-A986-E08F9C0B4CF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7860208E-DE31-45B2-A986-E08F9C0B4CF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7860208E-DE31-45B2-A986-E08F9C0B4CF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8623BD1B-4032-4F33-8F78-699DBE5B1B76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8623BD1B-4032-4F33-8F78-699DBE5B1B76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8623BD1B-4032-4F33-8F78-699DBE5B1B76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8623BD1B-4032-4F33-8F78-699DBE5B1B76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8809EE8-A5BD-40AB-893F-D3ED1E0ABE98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8809EE8-A5BD-40AB-893F-D3ED1E0ABE98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8809EE8-A5BD-40AB-893F-D3ED1E0ABE98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8809EE8-A5BD-40AB-893F-D3ED1E0ABE98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAF703B4-7D8E-4D38-9597-4FCDD1E82082}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAF703B4-7D8E-4D38-9597-4FCDD1E82082}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAF703B4-7D8E-4D38-9597-4FCDD1E82082}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAF703B4-7D8E-4D38-9597-4FCDD1E82082}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
