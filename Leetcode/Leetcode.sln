@@ -72,6 +72,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "155_MinStack", "155_MinStac
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "844_BackspaceStringCompare", "844_BackspaceStringCompare\844_BackspaceStringCompare.csproj", "{930A3905-A762-4413-BC40-1894CBAAA7DE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1047_RemoveAllAdjacentDuplicatesInString", "1047_RemoveAllAdjacentDuplicatesInString\1047_RemoveAllAdjacentDuplicatesInString.csproj", "{36ADD213-36EC-483D-82F8-1734EEEB8395}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -222,5 +224,9 @@ Global
 		{930A3905-A762-4413-BC40-1894CBAAA7DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{930A3905-A762-4413-BC40-1894CBAAA7DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{930A3905-A762-4413-BC40-1894CBAAA7DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36ADD213-36EC-483D-82F8-1734EEEB8395}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36ADD213-36EC-483D-82F8-1734EEEB8395}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36ADD213-36EC-483D-82F8-1734EEEB8395}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36ADD213-36EC-483D-82F8-1734EEEB8395}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
