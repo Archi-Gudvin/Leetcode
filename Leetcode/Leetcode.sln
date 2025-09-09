@@ -76,6 +76,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1047_RemoveAllAdjacentDupli
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14_LongestCommonPrefix", "14_LongestCommonPrefix\14_LongestCommonPrefix.csproj", "{15402DA4-CA3F-433E-B4E3-752F5ED8ECD1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "680_ValidPalindromeII", "680_ValidPalindromeII\680_ValidPalindromeII.csproj", "{33A1713A-2071-4940-B4BD-556DA90E0BDF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -234,5 +236,9 @@ Global
 		{15402DA4-CA3F-433E-B4E3-752F5ED8ECD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{15402DA4-CA3F-433E-B4E3-752F5ED8ECD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{15402DA4-CA3F-433E-B4E3-752F5ED8ECD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33A1713A-2071-4940-B4BD-556DA90E0BDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33A1713A-2071-4940-B4BD-556DA90E0BDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33A1713A-2071-4940-B4BD-556DA90E0BDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33A1713A-2071-4940-B4BD-556DA90E0BDF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
