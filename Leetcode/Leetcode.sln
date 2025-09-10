@@ -92,6 +92,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "104_MaximumDepthOfBinaryTre
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "101_SymmetricTree", "101_SymmetricTree\101_SymmetricTree.csproj", "{29106254-1134-4F64-B845-0CAE93A42DA2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "112_PathSum", "112_PathSum\112_PathSum.csproj", "{D239EEF2-B864-4D43-B980-F315EFCA85A1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -282,5 +284,9 @@ Global
 		{29106254-1134-4F64-B845-0CAE93A42DA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{29106254-1134-4F64-B845-0CAE93A42DA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{29106254-1134-4F64-B845-0CAE93A42DA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D239EEF2-B864-4D43-B980-F315EFCA85A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D239EEF2-B864-4D43-B980-F315EFCA85A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D239EEF2-B864-4D43-B980-F315EFCA85A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D239EEF2-B864-4D43-B980-F315EFCA85A1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
