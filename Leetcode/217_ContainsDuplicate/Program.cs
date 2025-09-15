@@ -15,6 +15,7 @@ bool ContainsDuplicate(int[] nums)
         {
             return true;
         }
+        else { result.Add(nums[i]); }
     }
 
     return false;
