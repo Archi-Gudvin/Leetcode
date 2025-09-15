@@ -1,8 +1,5 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.12.35707.178 d17.12
-MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "28_FindTheIndexOfTheFirstOccurrenceInAString", "28_FindTheIndexOfTheFirstOccurrenceInAString\28_FindTheIndexOfTheFirstOccurrenceInAString.csproj", "{8F95DC43-CD7A-48C2-A581-C4DEB06ADC5E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "58_LengthOfLastWord", "58_LengthOfLastWord\58_LengthOfLastWord.csproj", "{CEA97F52-68C9-4D7E-8444-663E908212E1}"
@@ -12,6 +9,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3206_AlternatingGroups", "3206_AlternatingGroups\3206_AlternatingGroups.csproj", "{E0B7F5D4-5031-4883-AE44-B8AB1DE39B13}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3258_CountSubstringsThatSatisfyK-Constraint", "3258_CountSubstringsThatSatisfyK-Constraint\3258_CountSubstringsThatSatisfyK-Constraint.csproj", "{2FD19073-C32D-4307-B9B6-117FADF10F20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3364_MinimumPositiveSumSubarray", "3364_MinimumPositiveSumSubarray \3364_MinimumPositiveSumSubarray.csproj", "{B8A7706B-B232-49DB-A9CF-E62CCCCA2F3D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "141_LinkedListCycle", "141_LinkedListCycle\141_LinkedListCycle.csproj", "{F483CF33-429D-41CA-814C-ABB02DD5EF24}"
 EndProject
@@ -73,6 +72,10 @@ Global
 		{2FD19073-C32D-4307-B9B6-117FADF10F20}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2FD19073-C32D-4307-B9B6-117FADF10F20}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2FD19073-C32D-4307-B9B6-117FADF10F20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8A7706B-B232-49DB-A9CF-E62CCCCA2F3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8A7706B-B232-49DB-A9CF-E62CCCCA2F3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8A7706B-B232-49DB-A9CF-E62CCCCA2F3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8A7706B-B232-49DB-A9CF-E62CCCCA2F3D}.Release|Any CPU.Build.0 = Release|Any CPU
 		{F483CF33-429D-41CA-814C-ABB02DD5EF24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{F483CF33-429D-41CA-814C-ABB02DD5EF24}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F483CF33-429D-41CA-814C-ABB02DD5EF24}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -141,8 +144,5 @@ Global
 		{6525B21D-C258-4917-8BB6-3D6CAC97EA2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6525B21D-C258-4917-8BB6-3D6CAC97EA2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6525B21D-C258-4917-8BB6-3D6CAC97EA2D}.Release|Any CPU.Build.0 = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
 	EndGlobalSection
 EndGlobal
