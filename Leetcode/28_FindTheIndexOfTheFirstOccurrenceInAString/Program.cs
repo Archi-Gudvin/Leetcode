@@ -1,21 +1,22 @@
 ﻿
-var haystack = Console.ReadLine();
-var needle =  Console.ReadLine();
+var haystack = "leetcode";
+var needle =  "de";
 
 Console.WriteLine(StrStr(haystack, needle));
-//TODO
 int StrStr(string haystack, string needle)
 {
-        int index = -1;
-        var isContain = haystack.Contains(needle);
-        if (isContain)
+        if (haystack.Contains(needle))
         {
-            int k = 0;
-            for (int i = 0; i < haystack.Length; i++)
-            {
-                
-            }
+                for (int i = 0; i < haystack.Length; i++)
+                {
+                        string temp = haystack.Substring(i, needle.Length);
+                        
+                        if (needle == temp)
+                        {
+                                return i;
+                        }
+                }
         }
         
-        return 0;
+        return -1;
 }
