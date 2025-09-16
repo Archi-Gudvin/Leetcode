@@ -101,6 +101,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "905_SortArrayByParity", "90
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "232_ImplementQueueUsingStacks", "232_ImplementQueueUsingStacks\232_ImplementQueueUsingStacks.csproj", "{37D719BF-ED74-4FCF-BF6D-F047AE32BD17}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "225_ImplementStackUsingQueues", "225_ImplementStackUsingQueues\225_ImplementStackUsingQueues.csproj", "{D6A55A82-0DB1-4FE8-85EF-CA7989F42E5D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -303,6 +305,10 @@ Global
 		{37D719BF-ED74-4FCF-BF6D-F047AE32BD17}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{37D719BF-ED74-4FCF-BF6D-F047AE32BD17}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{37D719BF-ED74-4FCF-BF6D-F047AE32BD17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6A55A82-0DB1-4FE8-85EF-CA7989F42E5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6A55A82-0DB1-4FE8-85EF-CA7989F42E5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6A55A82-0DB1-4FE8-85EF-CA7989F42E5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6A55A82-0DB1-4FE8-85EF-CA7989F42E5D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
