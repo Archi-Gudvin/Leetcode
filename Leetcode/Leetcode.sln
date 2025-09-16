@@ -97,6 +97,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "217_ContainsDuplicate", "21
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1984_MinimumDifferenceBetweenHighestAndLowestOfKScores", "1984_MinimumDifferenceBetweenHighestAndLowestOfKScores\1984_MinimumDifferenceBetweenHighestAndLowestOfKScores.csproj", "{2420688B-31FC-4D54-AFCB-83D16143F9E5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "905_SortArrayByParity", "905_SortArrayByParity\905_SortArrayByParity.csproj", "{D9440678-04CB-45B9-B0B5-F6E5CD5E4F7B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -291,6 +293,10 @@ Global
 		{2420688B-31FC-4D54-AFCB-83D16143F9E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2420688B-31FC-4D54-AFCB-83D16143F9E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2420688B-31FC-4D54-AFCB-83D16143F9E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9440678-04CB-45B9-B0B5-F6E5CD5E4F7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9440678-04CB-45B9-B0B5-F6E5CD5E4F7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9440678-04CB-45B9-B0B5-F6E5CD5E4F7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9440678-04CB-45B9-B0B5-F6E5CD5E4F7B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
