@@ -111,6 +111,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21_MergeTwoSortedLists", "2
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "234_PalindromeLinkedList", "234_PalindromeLinkedList\234_PalindromeLinkedList.csproj", "{60F645E6-29CA-41BC-B430-1108F6DD81EE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "226_InvertBinaryTree", "226_InvertBinaryTree\226_InvertBinaryTree.csproj", "{087E748C-0053-43A3-8C5E-45EF10E0C546}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -333,6 +335,10 @@ Global
 		{60F645E6-29CA-41BC-B430-1108F6DD81EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{60F645E6-29CA-41BC-B430-1108F6DD81EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{60F645E6-29CA-41BC-B430-1108F6DD81EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{087E748C-0053-43A3-8C5E-45EF10E0C546}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{087E748C-0053-43A3-8C5E-45EF10E0C546}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{087E748C-0053-43A3-8C5E-45EF10E0C546}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{087E748C-0053-43A3-8C5E-45EF10E0C546}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
