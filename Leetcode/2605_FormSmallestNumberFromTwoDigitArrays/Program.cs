@@ -7,20 +7,19 @@ int MinNumber(int[] nums1, int[] nums2)
 {
     var arrIntersect = nums1.Intersect(nums2);
 
-    string result = "";
-
     if (!arrIntersect.Any())
     {
-        int firstMinValue = nums1.Min();
+        if (nums1.Min() < nums2.Min())
+        {
+            return nums1.Min() * 10 + nums2.Min();
+        }
+        else
+        {
+            return nums2.Min() * 10 + nums1.Min();
+        }
 
-        int secondMinValue = nums2.Min();
-
-        result = $"{firstMinValue}{secondMinValue}";
+        
     }
-    else
-    {
-        return arrIntersect.Min();
-    }
-
-    return Convert.ToInt32(result);
+   
+    return arrIntersect.Min();
 }
