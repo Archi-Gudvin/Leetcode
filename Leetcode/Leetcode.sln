@@ -117,6 +117,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "543_DiameterOfBinaryTree", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "392_IsSubsequence", "392_IsSubsequence\392_IsSubsequence.csproj", "{A8A84EB1-F939-4572-88EF-72CA6576C9B4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2605_FormSmallestNumberFromTwoDigitArrays", "2605_FormSmallestNumberFromTwoDigitArrays\2605_FormSmallestNumberFromTwoDigitArrays.csproj", "{B718A469-FA1D-4CAF-AE4C-C436F0E26B59}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -351,6 +353,10 @@ Global
 		{A8A84EB1-F939-4572-88EF-72CA6576C9B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A8A84EB1-F939-4572-88EF-72CA6576C9B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A8A84EB1-F939-4572-88EF-72CA6576C9B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B718A469-FA1D-4CAF-AE4C-C436F0E26B59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B718A469-FA1D-4CAF-AE4C-C436F0E26B59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B718A469-FA1D-4CAF-AE4C-C436F0E26B59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B718A469-FA1D-4CAF-AE4C-C436F0E26B59}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
