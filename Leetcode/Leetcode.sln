@@ -119,6 +119,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "392_IsSubsequence", "392_Is
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2605_FormSmallestNumberFromTwoDigitArrays", "2605_FormSmallestNumberFromTwoDigitArrays\2605_FormSmallestNumberFromTwoDigitArrays.csproj", "{B718A469-FA1D-4CAF-AE4C-C436F0E26B59}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "125_Valid Palindrome", "125_Valid Palindrome\125_Valid Palindrome.csproj", "{E3A64F6D-FAD9-4232-9E25-A26D41BDFFC0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -357,6 +359,10 @@ Global
 		{B718A469-FA1D-4CAF-AE4C-C436F0E26B59}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B718A469-FA1D-4CAF-AE4C-C436F0E26B59}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B718A469-FA1D-4CAF-AE4C-C436F0E26B59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3A64F6D-FAD9-4232-9E25-A26D41BDFFC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3A64F6D-FAD9-4232-9E25-A26D41BDFFC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3A64F6D-FAD9-4232-9E25-A26D41BDFFC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3A64F6D-FAD9-4232-9E25-A26D41BDFFC0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
